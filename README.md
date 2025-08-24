@@ -13,7 +13,7 @@ Hi! I'm Elizaveta, HSE x KyungHee University graduate and data analitics enjoyer
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /><img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 ## Contact me
-<a href="cherkashina.ea@gmail.com">
+<a href="mailto:cherkashina.ea@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://t.me/risaki_ch">
